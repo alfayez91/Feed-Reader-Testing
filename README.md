@@ -9,7 +9,7 @@ Check out [Feed Reader Testing](http://mohammedaziz.tk/Feed-Reader-Testing) to s
 
 ## Technologies Used
 
-HTML5.
-Javascript.
-Jasmine.
-jQuery.
+1. HTML5.
+2. Javascript.
+3. Jasmine.
+4. jQuery.
