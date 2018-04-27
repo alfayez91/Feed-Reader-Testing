@@ -1,6 +1,6 @@
 # Feed Reader Testing
 
-In this project we are given a web-based application that reads RSS feeds by Udacity. The tests are added using Jasmine to check the functionalites of the code written
+Feed Reader Testing Project is given a web-based application that reads RSS feeds by Udacity. These testing are used by Jasmine to check the functionalites of the code written.
 
 ## Online project
 
