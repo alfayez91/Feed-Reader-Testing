@@ -6,6 +6,9 @@ Feed Reader Testing Project is given a web-based application that reads RSS feed
 
 Check out [Feed Reader Testing](http://mohammedaziz.tk/Feed-Reader-Testing) to see the results of Jasmine testing.
 
+Clone the repository using git clone https://github.com/alfayez91/Feed-Reader-Testing.git
+Open index.html in your browser.
+
 
 ## Technologies Used
 
