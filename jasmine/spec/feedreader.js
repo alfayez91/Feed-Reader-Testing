@@ -50,20 +50,20 @@ $(function() {
             expect($('.feed .entry').length).toBeGreaterThan(0);
         });
     });
-    let entryContent;
 
+    let content;
     describe('New Feed Selection', function(){
 
         
         beforeEach(function (done) {
             $('.feed').empty();
             loadFeed(0, function() {
-                entryContent = $('.feed').html();
+                content = $('.feed').html();
                 loadFeed(1, done);
             });
         });
         it('Ensures when a new feed is loaded has the content actually changes', function(){
-            expect($('.feed').html()).not.toEqual(entryContent);
+            expect($('.feed').html()).not.toEqual(content);
         });
     });
 }());
